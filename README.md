@@ -63,4 +63,4 @@ print(user_validation("eman", 1111))              # False
 ```
 ## Installation
 
-No installation required. Simply copy Validation.py into your project or import it as a module.
+No installation required. Simply copy `Validation.py` into your project or import it as a module.
